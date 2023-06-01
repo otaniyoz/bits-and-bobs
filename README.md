@@ -1,2 +1,1 @@
-# bits-and-bobs
-random pieces of code
+some pieces of code from some years of coding
